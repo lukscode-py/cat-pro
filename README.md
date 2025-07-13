@@ -60,6 +60,7 @@ python start.py
 
 - Classificado de peso
 - Loja Cat Pro - Tec
+- Game - Jokenpô
 - Créditos
 - Sair
 
